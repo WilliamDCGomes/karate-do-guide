@@ -1,4 +1,4 @@
-package com.example.karate_do_guide
+package br.com.example.karatedohitsujiguide
 
 import io.flutter.embedding.android.FlutterActivity
 
